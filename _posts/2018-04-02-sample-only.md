@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## A New Post
 This is absolutely the first post!
